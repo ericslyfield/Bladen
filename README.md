@@ -1,4 +1,5 @@
-# bladen
+# Bladen
+## Bladen is a lightweight agency starter theme for Wordpress.
 ___
 
-## Bladen is a lightweight agency starter theme for Wordpress.
+Documentation in progress...
